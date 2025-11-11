@@ -4,7 +4,7 @@ import random
 
 # ===== CONFIGURAÇÕES ===== 
 numeros = [
-    "+559987878787"   # Segundo melhor telefone
+    "+5599887777777"   # Segundo melhor telefone
 ]
 
 # Tempo de espera entre mensagens (em segundos)
@@ -55,4 +55,5 @@ def enviar_mensagens():
 if __name__ == "__main__":
     print("- - - - BOT WHATSAPP INICIADO - - - -")
     enviar_mensagens()
+
     print("✔ Todas as mensagens foram enviadas!")
